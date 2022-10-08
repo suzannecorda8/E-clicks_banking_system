@@ -1,0 +1,1 @@
+ E-clicks website is a banking system which helps people to transfer money and view transaction history.It has a landing page and the languages used to make it are html,css,php.Also for database connection phpmyadmin is used.
